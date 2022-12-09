@@ -1,5 +1,5 @@
 # Dice-Roller
-Project developed during the Android Basics in Kotlin course
+Project developed during the Android Basics in Kotlin course.
 
 Building a Dice Roller Android App while learning concepts in Kotlin.
 
