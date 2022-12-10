@@ -1,10 +1,10 @@
 # Dice-Roller
 
-## Description
-
 Project developed during the Android Basics in Kotlin course.
 
 Building a Dice Roller Android App while learning concepts in Kotlin.
+
+## Description
 
 Click the "Roll" button and the app will return a random value on the screen.
 
